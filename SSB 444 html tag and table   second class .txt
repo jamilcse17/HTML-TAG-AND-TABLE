@@ -1,0 +1,61 @@
+SSB 442 CLASS 2 LECTURE NOTE
+****************************************
+
+<html lang="en"> --> language english
+
+<meta charset="UTF-8">  --> all character  support
+<meta http-equiv=="X-UA-Compatible" content="IE=edge"  --> windows version(CHROME,firefox,microsoft edge) jai hok na kno kaj korbe.
+
+viewport = pc or phone jai use kori na kno website er view temon e hobe,, that means device compitable hobe
+
+heading tag/h = heading er kaj kore ,, total heading tag 6t a ,,,like h1 = maximum size ,,,h6= minimum size
+
+paragraph tag/p = heading er upor click korle  je content open hoi egula paragraph tag er maddhome kora hoi ..that means article or message likhte gele p use
+
+image tag /img = add image on the website
+
+attribute = tag same but data gula difference hole kaj o diffrence hoi same nsme hole,, and ( " " )er vitore ja lekha hoi sobgula value..
+attribute -> additional info/data.
+
+alt = jodi image er file name vul hoi thokhn alternative use kora hoi  for safety.
+
+a tag / anchor tag = eta die amra je website e link e click korle amdr ekta jaigai nie jai seta r kaj kore -> a tag
+
+button tag = jodi button use kori like ,click here  eta button tag die korte hoi 
+i/ italic tag= eta die lekha italic kora hoi 
+
+ list tag= list tag 2 types -> 1. order list-> 1,2,3,4, evabe 
+ 2. unorder list -> ekhane kono number thakbe na ,, onk somoi dot ba roman ba jeknow sign die list kori seta unrder list 
+
+order list /ol =  jeta numbering die kora hoi 
+
+unorder list/ul = jeta numbering thakbe na 
+
+tag link..-->https://way2tutorial.com/html/tag/html_comment_tag.php
+
+table tag-=== always <body> tag er majhe likhbo and rakhbo 
+
+ <table border="1px" width ="100%">
+  <tr>
+            <th>Serial No</th>
+            <th>Tag Name</th>
+            <th>Tag Description</th>
+            <th>Example</th>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td>heading tag</td>
+            <td>It's used for writting any heading</td>
+            <td><h1>this is heading tag</h1></td>
+        </tr>
+
+	  <tr>
+            <td>02</td>
+            <td>paragraph tag</td>
+            <td>It's used for writting any article</td>
+            <td><p>welcome to my page</p></td>
+        </tr>
+
+ evabe joto gula lagbe continuee korbo 
+
+
