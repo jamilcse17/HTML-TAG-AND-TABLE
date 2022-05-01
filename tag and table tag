@@ -1,0 +1,64 @@
+ SSB CLASS TWO FULL HTML TAG AND TABLE DETAILS
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>this is our second class</title>
+    <link rel="icon" href="images/logos.jpg">
+    <link rel="stylesheet" href="css/style.css ">
+</head>
+<body>
+   ,<i><h1>This is Mahmud Jamil</h1></i>
+    <h2>this is heading two</h2>
+    <p>this is mahmud jamil</p>
+    <img src="images/logo.jpg" width="200px" height="150px" alt="">
+
+
+    <a href="https://www.youtube.com/"><img src="images/logos.jpg" width="200px" alt="">youtube</a>
+
+    <button>Click here</button>
+    <i>this is italic</i>
+
+    <ol>
+        <li> one</li>
+        <li>two </li>
+    </ol>
+
+    <ul>
+        <li>one</li>
+        <li>two</li>
+    </ul>
+
+    <table border="1px" width ="100%">
+        <tr>
+            <th>Serial No</th>
+            <th>Tag Name</th>
+            <th>Tag Description</th>
+            <th>Example</th>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td>heading tag</td>
+            <td>It's used for writting any heading</td>
+            <td><h1>this is heading tag</h1></td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>paragraph tag</td>
+            <td>It's used for writting any article</td>
+            <td><p>welcome to my page</p></td>
+        </tr>
+
+        <tr>
+            <td>03</td>
+            <td>Image tag</td>
+            <td>this is used for images</td>
+            <td><img src="images/logos.jpg" width="100px" alt=""></td>
+        </tr>
+    </table>
+
+</body>
+</html>
